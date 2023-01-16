@@ -2,13 +2,11 @@ import React from 'react';
 
 function Resume() {
   return (
-    <section className="my-5">
-      <div className="my-2">
-      <p>
-        Download my <a href="https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage&_ga=2.227390168.493233662.1673884351-1510809692.1657525204">resume!</a>
-        </p>
+    <section className='my-5'>
+      <div className='my-2'>
+      <p>View my<a className='nav-link' href='../assets/pdf/Resume -2022.pdf' Target='Blank'>Resume</a></p>
         <h3>Front-end Proficiencies</h3>
-        <ul className="skills">
+        <ul className='skills'>
           <li>HTML</li>
           <li>CSS</li>
           <li>JavaScript</li>
@@ -19,7 +17,7 @@ function Resume() {
           <li>Bulma</li>
         </ul>
         <h3>Back-end Proficiencies</h3>
-        <ul className="skills">
+        <ul className='skills'>
           <li>APIs</li>
           <li>Node</li>
           <li>Express</li>
