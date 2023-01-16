@@ -59,7 +59,7 @@ For this application I want the following objectives to be implemented
 
 ### Deployed Application 
 
-[Heroku-Link]()
+[Link]()
 
 ## GitHub
 
