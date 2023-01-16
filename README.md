@@ -39,22 +39,13 @@ For this application I want the following objectives to be implemented
 * jQuery
 * node.js (to install packages)
 * Bootstrap
-* Google Fonts 
 * Font Awesome
 
 ### Screenshots
 
 
-<!-- Make sure to resize the pictures so they fit appropriately  -->
-![](./assets/####)
-
- 
-
-![](./assets/####)
-
-
-
-![](./assets/####)
+<!-- HomePage -->
+![Portfolio HomePage](./assets/images/screenshots/portfolio.png)
 
 
 ### Deployed Application 
