@@ -50,7 +50,7 @@ For this application I want the following objectives to be implemented
 
 ### Deployed Application 
 
-[Link]()
+[Heroku Link](https://gd-port-folio-fo-jobz.herokuapp.com/)
 
 ## GitHub
 
